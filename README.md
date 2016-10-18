@@ -1,6 +1,12 @@
 # webpack-simple-01
 Webpack boilerplate "Simple-01": HTML + CSS + SASS + JS
 
+## Stack
+- HTML(5)
+- CSS(3)
+- SASS
+- JS(ES6)
+
 ## Boilerplate scripts
 
 | name | description | cli |
