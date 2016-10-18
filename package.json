@@ -17,7 +17,6 @@
   "author": "eugene.poletski",
   "license": "ISC",
   "devDependencies": {
-    "babel-eslint": "^7.0.0",
     "css-loader": "^0.25.0",
     "eslint": "^3.8.1",
     "eslint-loader": "^1.6.0",
